@@ -1,0 +1,6 @@
+Nacos:
+  NameId: "dc831b22-5972-414d-9c9c-05d73f8de4da"
+  DataId: "2209a_api"
+  Group: "DEFAULT_GROUP"
+  Host: "14.103.136.112"
+  Port: 8848
